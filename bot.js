@@ -505,10 +505,10 @@ class MusicBot {
         
         logger.info(`⏭️ ${user.username} 执行切歌`);
         
-        if (this.playState.mode === 'QUEUE') {
+        if (this.playState.mode === 'QUEUE' || this.queue.length > 0) {
             // 程序控制播放时，直接播放下一首
             await this.playNext();
-        } else if (this.playState.mode === 'LXMUSIC') {
+        } else if (this.playState.mode === 'LXMUSIC' || this.queue.length === 0) {
             // 洛雪播放时，使用skipNext
             await this.lxMusic.control('next');
         } else {
