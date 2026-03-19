@@ -4,6 +4,15 @@
 
 [![github](https://img.shields.io/badge/GitHub-项目主页-blue)](https://github.com/fssdyql/bili-lx)  [![CHANGELOG](https://img.shields.io/badge/GitHub-更新日志-Green)](https://github.com/fssdyql/bili-lx/blob/main/CHANGELOG.md)    [![LX music](https://img.shields.io/badge/GitHub-lx_music-blue)](https://github.com/lyswhut/lx-music-desktop)    [![releases](https://img.shields.io/badge/GitHub-下载地址-blue)](https://github.com/fssdyql/bili-lx/releases)  
 
+> [!caution]
+> 因原作者停止维护，故FORK此REPO以便基于个人需求修改
+> 仅因个人需求创建
+> 修改内容
+> 1. 流程调整
+>    <img width="1291" height="631" alt="bili-lx" src="https://github.com/user-attachments/assets/ce016d9d-9391-43a7-9aeb-e4ef020a9e74" />
+
+
+
 ## ⚠️ 重要声明
 
 **使用前必读：[免责声明](./DISCLAIMER.md)**
